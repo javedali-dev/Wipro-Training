@@ -1,5 +1,5 @@
 !["Wipro training program"](assets/wipro.png)
-##This repository contains all the daily practice program of **Wipro** training Program.
+## This repository contains all the daily practice program of **Wipro** training Program.
 ### Want to contribute?
 - clone this repository:<br/>
     `https://github.com/javedali-dev/Wipro-Training.git`
