@@ -2,7 +2,7 @@
 Example:
      C:\>java Sample 10 20
      O/P Expected : The sum of 10 and 20 is 30*/
-package milestone1.july5;
+package milestone1.javaFundamentals.commandLineArgument;
 
 public class SumOfTwoArgument {
     public static void main(String[] args) {

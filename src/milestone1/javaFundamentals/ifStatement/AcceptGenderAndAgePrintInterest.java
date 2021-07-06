@@ -16,7 +16,7 @@ Interest == 8.3%
  Age    ==>61-120
  */
 
-package milestone1.july5;
+package milestone1.javaFundamentals.ifStatement;
 
 public class AcceptGenderAndAgePrintInterest {
     public static void main(String[] args) {

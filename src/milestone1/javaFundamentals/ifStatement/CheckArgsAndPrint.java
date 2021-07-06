@@ -5,7 +5,7 @@ Eg2) java Example Mumbai Bangalore
 O/P: Mumbai,Bangalore
 [Note: You can use length property of an array to check its length
  */
-package milestone1.july5;
+package milestone1.javaFundamentals.ifStatement;
 
 public class CheckArgsAndPrint {
     public static void main(String[] args) {

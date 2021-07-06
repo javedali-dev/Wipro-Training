@@ -1,6 +1,6 @@
 /* Write a program to check if a given number is odd or even.
  */
-package milestone1.july5;
+package milestone1.javaFundamentals.ifStatement;
 
 import java.util.Scanner;
 

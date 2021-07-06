@@ -3,7 +3,7 @@ if the value is alphabet then print "Alphabet" if it’s a number then print "Di
 and for other characters print "Special Character"
  */
 
-package milestone1.july5;
+package milestone1.javaFundamentals.ifStatement;
 
 import java.util.Scanner;
 

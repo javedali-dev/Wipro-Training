@@ -3,7 +3,7 @@
         If the two command line arguments are Wipro and Bangalore then the output generated should be Wipro Technologies Bangalore.
         If the command line arguments are ABC and Mumbai then the output generated should be ABC Technologies Mumbai
         [Note: It is mandatory to pass two arguments in command line]*/
-package milestone1.july5;
+package milestone1.javaFundamentals.commandLineArgument;
 
 public class ConcatTwoArgs {
     public static void main(String[] args) {

@@ -2,7 +2,7 @@
         Example :
         C:\> java Sample John
         O/P Expected : Welcome John*/
-package milestone1.july5;
+package milestone1.javaFundamentals.commandLineArgument;
 
 import java.sql.SQLOutput;
 

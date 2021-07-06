@@ -1,6 +1,6 @@
 /*Implement function which converts a string to an integer.*/
 
-package milestone1.july6;
+package milestone1.classWork.july6;
 
 import java.util.Scanner;
 

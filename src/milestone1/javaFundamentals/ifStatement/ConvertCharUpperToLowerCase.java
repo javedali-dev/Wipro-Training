@@ -1,4 +1,10 @@
-package milestone1.july5;
+/*Write a program to convert from upper case to lower case and vice versa of an alphabet and
+print the old character and new character as shown in example
+(Ex: a->A, M->m).
+ */
+
+
+package milestone1.javaFundamentals.ifStatement;
 
 import java.util.Scanner;
 

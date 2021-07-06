@@ -4,7 +4,7 @@ O/P: e,s
 Eg2) if first character is a and second is e
 O/P:a,e
  */
-package milestone1.july5;
+package milestone1.javaFundamentals.ifStatement;
 
 import java.util.Arrays;
 import java.util.Scanner;
