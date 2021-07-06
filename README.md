@@ -1,6 +1,7 @@
-This repository contains all the daily practice program of **Wipro** training Program.
+!["Wipro training program"](assets/wipro.png)
+##This repository contains all the daily practice program of **Wipro** training Program.
 ### Want to contribute?
-- clone this repository:
+- clone this repository:<br/>
     `https://github.com/javedali-dev/Wipro-Training.git`
 - Follow package name system. <br/>
   for e.g., If you want to write any program from specific date(eg. july7) first check if the given date(eg. july7) package is exist or not, if exist create a `.java` file and give it a described name to your filename and start writing you code. if package is not present you can create a package (eg. july7) and then create file and write code.<br/> 
