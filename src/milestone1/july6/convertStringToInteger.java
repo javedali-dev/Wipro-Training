@@ -4,7 +4,7 @@ package milestone1.july6;
 
 import java.util.Scanner;
 
-public class Question1 {
+public class convertStringToInteger {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         String numberInString = scan.nextLine();
