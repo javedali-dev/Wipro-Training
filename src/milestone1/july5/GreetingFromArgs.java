@@ -6,7 +6,7 @@ package milestone1.july5;
 
 import java.sql.SQLOutput;
 
-public class greetingFromArgs {
+public class GreetingFromArgs {
     public static void main(String[] args) {
         System.out.println("Welcome "+args[0]);
     }

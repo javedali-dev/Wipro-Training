@@ -9,7 +9,7 @@ package milestone1.july5;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class arrangeTwoCharAlphabetically {
+public class ArrangeTwoCharAlphabetically {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
        char[] arr = new char[2];

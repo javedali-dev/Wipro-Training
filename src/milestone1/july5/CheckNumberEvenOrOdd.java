@@ -4,7 +4,7 @@ package milestone1.july5;
 
 import java.util.Scanner;
 
-public class checkNumberEvenOrOdd {
+public class CheckNumberEvenOrOdd {
     public static void main(String[] args) {
         int x;
         Scanner scan = new Scanner(System.in);

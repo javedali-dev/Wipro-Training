@@ -5,7 +5,7 @@
         [Note: It is mandatory to pass two arguments in command line]*/
 package milestone1.july5;
 
-public class concatTwoArgs {
+public class ConcatTwoArgs {
     public static void main(String[] args) {
         System.out.println(args[0]+" Technologies "+args[1]);
     }

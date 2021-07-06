@@ -7,7 +7,7 @@ package milestone1.july5;
 
 import java.util.Scanner;
 
-public class checkCharAndPrintType {
+public class CheckCharAndPrintType {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char ch = scanner.next().charAt(0);
