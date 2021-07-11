@@ -4,7 +4,6 @@
         O/P Expected : Welcome John*/
 package milestone1.javaFundamentals.commandLineArgument;
 
-import java.sql.SQLOutput;
 
 public class GreetingFromArgs {
     public static void main(String[] args) {

@@ -8,7 +8,7 @@ O/P:4001
  */
 
 
-package milestone1.javaFundamentals.forLoop;
+package milestone1.javaFundamentals.whileLoop;
 
 public class ReverseGivenNumber {
     public static int reverseNumber(int num){

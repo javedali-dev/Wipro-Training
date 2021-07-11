@@ -10,9 +10,7 @@ Example2:
 
 package milestone1.javaFundamentals.whileLoop;
 
-import java.sql.SQLOutput;
-
-import static milestone1.javaFundamentals.forLoop.ReverseGivenNumber.reverseNumber;
+import static milestone1.javaFundamentals.whileLoop.ReverseGivenNumber.reverseNumber;
 
 public class CheckGivenNumberIsPalindrome {
     public static void main(String[] args) {
