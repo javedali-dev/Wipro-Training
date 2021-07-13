@@ -10,6 +10,6 @@ public class Main {
         s.draw();
         c.erase();
         t.erase();
-        s.erase();
+        s.erase ();
     }
 }
