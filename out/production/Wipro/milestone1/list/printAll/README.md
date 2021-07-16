@@ -1,0 +1,1 @@
+Create an ArrayList which will be able to store only Strings. Create a printAll method which will print all the elements using an Iterator.
