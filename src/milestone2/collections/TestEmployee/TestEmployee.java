@@ -17,7 +17,7 @@ class Employee {
 }
 
 class EmployeeDB{
-    ArrayList<Employee> arrayOfEmployee;
+    ArrayList<Employee> arrayOfEmployee = new ArrayList<Employee>();
     boolean addEmployee(Employee e){
         if(arrayOfEmployee.contains(e))
             return false;
@@ -56,9 +56,10 @@ class EmployeeDB{
 public class TestEmployee {
     public static void main(String[] args) {
         EmployeeDB employeeDB = new EmployeeDB();
-        for (int i = 0; i <10 ; i++) {
-            employeeDB.addEmployee(new Employee(i,"employee"+i,1000+i,25+i));
+        for (int i = 1; i <=10 ; i++) {
+            employeeDB.addEmployee(new Employee(i,"employee"+i,1000+i*20,25+i));
         }
+        System.out.println(employeeDB.showPaySlip(3));
 
     }
 }
