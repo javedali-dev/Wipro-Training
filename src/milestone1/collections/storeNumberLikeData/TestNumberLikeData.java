@@ -1,4 +1,4 @@
-package milestone1.list.storeNumberLikeData;
+package milestone1.collections.storeNumberLikeData;
 
 import java.util.ArrayList;
 
