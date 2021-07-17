@@ -1,4 +1,4 @@
-package milestone1.collections.printAll;
+package milestone2.collections.printAll;
 
 import java.util.ArrayList;
 
