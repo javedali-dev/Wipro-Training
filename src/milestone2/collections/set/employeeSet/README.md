@@ -1,0 +1,1 @@
+Write a program to store a group of employee names into a HashSet, retrieve the elements one by one using an Iterator.
