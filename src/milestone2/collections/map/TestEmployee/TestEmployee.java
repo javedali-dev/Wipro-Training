@@ -1,4 +1,4 @@
-package milestone2.collections.TestEmployee;
+package milestone2.collections.map.TestEmployee;
 
 import java.util.ArrayList;
 

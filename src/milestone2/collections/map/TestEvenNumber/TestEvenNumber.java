@@ -1,4 +1,4 @@
-package milestone2.collections.TestEvenNumber;
+package milestone2.collections.map.TestEvenNumber;
 
 import java.util.ArrayList;
 

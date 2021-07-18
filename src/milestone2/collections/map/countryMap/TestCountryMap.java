@@ -1,4 +1,4 @@
-package milestone2.collections.countryMap;
+package milestone2.collections.map.countryMap;
 
 import java.util.ArrayList;
 import java.util.HashMap;
